@@ -1,7 +1,13 @@
 ## Hi! I'm Shavoya Beecher
 - My name is Shavoya Beecher
 - Programming and Software Development Student at LaGuardia Community College
-- 
+
+
+# Fun Facts:
+- I am the youngest of 4 girls
+- I love to watch k-dramas and anime
+- BTS is my favorite band
+- Hobbies: anime, dramas, music, playing video games
 
 <!--
 **Voya96/Voya96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
