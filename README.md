@@ -1,4 +1,7 @@
 ## Hi! I'm Shavoya Beecher
+- My name is Shavoya Beecher
+- Programming and Software Development Student at LaGuardia Community College
+- 
 
 <!--
 **Voya96/Voya96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
