@@ -1,7 +1,4 @@
-Hi I'm Shavoya Beecher <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3ff/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3ff/512.gif" alt="👋" width="32" height="32">
-</picture>
+##Hi! I'm Shavoya Beecher
 
 <!--
 **Voya96/Voya96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
