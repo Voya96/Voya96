@@ -2,6 +2,9 @@
 - My name is Shavoya Beecher
 - Programming and Software Development Student at LaGuardia Community College
 
+# Tools & Languages:
+- C++
+
 
 # Fun Facts:
 - I am the youngest of 4 girls
